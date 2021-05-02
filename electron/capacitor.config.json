@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "native-next-starter-project",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "out",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
